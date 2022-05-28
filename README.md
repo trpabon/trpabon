@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @trpabon, I'm looking for my first role in tech. 
-- 📷 I’m interested in photography, traveling, and puzzles.  
+- 👋 Hi, I’m @trpabon, and I'm looking for my first role in tech. 
+- 📷 I love film, photography, traveling, and puzzles.  
 - 💻 I’m currently learning Python and love automation. 
 
 
